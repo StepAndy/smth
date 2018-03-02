@@ -1,0 +1,2 @@
+Компиляция:
+g++ main.cpp get_options.cpp incorrect_arg.cpp int_descending.cpp isort_int.cpp isort_str.cpp str_descending.cpp -o sort-it
